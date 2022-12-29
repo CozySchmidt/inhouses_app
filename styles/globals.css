@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@font-face {
+    font-family: "Sportesia";
+    src: url("../public/Sportesia.otf");
+}
