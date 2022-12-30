@@ -7,8 +7,14 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors: {
+        league_blue_header: '#0A1428',
+        league_blue_body: '#1e293b',
+        league_gold: '#c89b3c'
+      },
       fontFamily: {
-        sportesia: ["Sportesia", "sans-serif"]
+        beaufortheavy: ["BeaufortHeavy", "sans-serif"],
+        beaufortheavyitalic: ["BeaufortHeavyItalic", "sans-serif"]
       }
     },
   },

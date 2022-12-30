@@ -11,7 +11,7 @@ export default function RootLayout({
   return (
     <html>
       <head></head>
-      <body>
+      <body className='bg-league_blue_header'>
         <Header/>
         <Teams/>
         {children}

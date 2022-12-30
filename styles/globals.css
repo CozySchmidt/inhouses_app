@@ -7,3 +7,11 @@
     font-family: "Sportesia";
     src: url("../public/Sportesia.otf");
 }
+@font-face {
+    font-family: "BeaufortHeavy";
+    src: url("../public/BeaufortforLOL-Heavy.otf");
+}
+@font-face {
+    font-family: "BeaufortHeavyItalic";
+    src: url("../public/BeaufortforLOL-HeavyItalic.otf");
+}
